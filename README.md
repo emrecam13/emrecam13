@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @emrecam13
+- 👋 Hi, I’m Emre
 - 👀 I’m interested in Data Science
 - 🌱 I’m currently learning Python and SQL
 - 💞️ I’m looking to collaborate on Data Science
