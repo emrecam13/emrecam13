@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @emrecam13
-- 👀 I’m interested in data science
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on data science
+- 👀 I’m interested in Data Science
+- 🌱 I’m currently learning Python and SQL
+- 💞️ I’m looking to collaborate on Data Science
 - 📫 You can reach me via mail: emrecam13@gmail.com
 
 <!---
